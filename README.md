@@ -1,4 +1,4 @@
-# Felipe Ziviani, nice to meet you! 😉
+# Felipe Ziviani, nice to meet you!
 
 <div align="center">
   <a href="https://github.com/felipeziviani">
