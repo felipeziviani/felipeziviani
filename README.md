@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/felipeziviani">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=felipeziviani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeziviani&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeziviani&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-      <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"  src="https://media.discordapp.net/attachments/852961213200728106/1006349946670301214/Picsart_22-08-08_20-18-52-283.jpg">
+      <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"   src="https://media.discordapp.net/attachments/852961213200728106/1006349946670301214/Picsart_22-08-08_20-18-52-283.jpg">
 </div>
   
   ##
