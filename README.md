@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-      <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px; " src="https://media.discordapp.net/attachments/852961213200728106/1006345667704258611/Picsart_22-08-08_20-18-52-283.jpg">
+      <img align="right" alt="lipe-pic" height="150" style =" border-radius: 15px ; "  src="https://media.discordapp.net/attachments/852961213200728106/1006349946670301214/Picsart_22-08-08_20-18-52-283.jpg">
 </div>
   
   ##
