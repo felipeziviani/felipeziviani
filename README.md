@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&weight=700&size=25&duration=1000&pause=1000&color=ff6f9c&center=true&vCenter=true&width=700&height=60&lines=+Prazer, meu+nome+é+Felipe Ziviani!+;Seja+bem-vindo+ao+meu+github+ᨒ; " alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&weight=700&size=25&duration=1000&pause=1000&color=ff6f9c&center=true&vCenter=true&width=700&height=60&lines=+Prazer, meu+nome+é+Felipe Ziviani!+;Seja+bem-vindo+ao+meu+github+✦; " alt="Typing SVG" />
 </div>
 
 <div align="center">
