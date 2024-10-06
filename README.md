@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F7942&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&weight=700&size=25&duration=1000&pause=1500&color=c9d1d9&center=true&vCenter=true&width=820&height=60&lines=+Prazer, meu+nome+é+Felipe Ziviani!+;Seja+bem-vindo+ao+meu+github+✦;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&weight=700&size=25&duration=1000&pause=1500&color=c9d1d9&center=true&vCenter=true&width=820&height=60&lines=+Prazer, meu+nome+é+Felipe Ziviani!+;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo+ao+meu+github+✦;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -25,7 +25,6 @@
   ##
   
 <div align="center"> 
-  <a href="https://www.instagram.com/felipeziviani" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%4F7942?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:felipezivianilima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipeziviani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%4F7942?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
