@@ -1,10 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F7942&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&weight=700&size=25&duration=1000&pause=1500&color=c9d1d9&center=true&vCenter=true&width=820&height=60&lines=+Prazer, meu+nome+é+Felipe Ziviani!+;Sou+estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem-vindo+ao+meu+github+✦;" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <a href="https://github.com/felipeziviani">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=felipeziviani&show_icons=true&count_private=true&hide_border=true&title_color=4F7942&icon_color=4F7942&text_color=c9d1d9&bg_color=0d1117""/>
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeziviani&layout=compact&hide_border=true&title_color=4F7942&text_color=c9d1d9&bg_color=0d1117"/>
