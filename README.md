@@ -6,7 +6,7 @@
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeziviani&layout=compact&hide_border=true&title_color=4F7942&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
   
-  <div align="center" style="display: inline_block"><br>
+  <div align="center">
     <img align="center" alt="Lipe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
     <img align="center" alt="Lipe-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Lipe-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
