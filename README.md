@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/felipeziviani">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=felipeziviani&show_icons=true&count_private=true&hide_border=true&title_color=4F7942&icon_color=4F7942&text_color=c9d1d9&bg_color=0d1117""/>
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeziviani&layout=compact&hide_border=true&title_color=4F7942&text_color=c9d1d9&bg_color=0d1117"/>
+  <img width="50%" src="https://github-readme-stats.shion.dev/api?username=felipeziviani&show_icons=true&count_private=true&hide_border=true&title_color=4F7942&icon_color=4F7942&text_color=c9d1d9&bg_color=0d1117""/>
+  <img width="33%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=felipeziviani&layout=compact&hide_border=true&title_color=4F7942&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
   
   <p align="center">
